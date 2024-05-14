@@ -25,7 +25,7 @@ deiturikoa.
    <summary>Laguntza: 3 eta 4 puntuak baieztatzeko. </summary>
  
  * 3\. eta 4. puntua baieztatu nahi izan ezkero, “**Computer Management**” leihoa irekiko dugu. "**Groups**" karpetan dena ondo sortu dela egiaztatzeko.
-![Computer Management kaptura](Computer_management.png)
+![Computer Management kaptura](Computer_management.PNG)
 </details>
 
  <details>
