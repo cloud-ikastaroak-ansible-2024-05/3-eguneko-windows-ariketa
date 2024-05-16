@@ -2,6 +2,9 @@
 <h1 align="center">  3. Eguneko ariketa:
 Laborategi baterako kudeaketa: Windows-eko makina bat kudeatzen.</h1>
 
+> [!IMPORTANT]
+> Lan-eremua prestatzeko, pauso hauek jarraitzea gomendatzen da: 1) .pem fitxategia proiektuko karpetara kopiatu, 2) hosts fitxategian makina birtualaren IP helbidea idatzi, 3) terminalean, ```. setup.sh``` komandoa exekutatu
+
 ## Sarrera:
 Windows makina bat kudeatzeko konfigurazio pausuak burutu ditugu. Hurrengo ariketan, irakasteko laborategi baten kudeaketa gauzatuko dugu. 
 
