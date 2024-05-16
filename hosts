@@ -1,9 +1,10 @@
-[all]
-ubuntu@<ip>
-ubuntu@<ip>
-
-[lehena]
-ubuntu@<ip>
-
-[bigarrena]
-ubuntu@<ip>
+[win]
+<IP_ADDRESS>
+[win:vars]
+ansible_user=Administrator
+ansible_password=<password>
+ansible_connection=ssh
+ansible_shell_type=cmd
+ansible_ssh_common_args=-o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
+ansible_ssh_retries=3
+ansible_become_method=runas
